@@ -1,6 +1,7 @@
 ### introduction 
 
 A bussines man that owns a series of gyms/Fitness centers would like to expand his series to Toronto city in Canada he would like to know which neigborhoods are the best neighboorhods in Tornotno city to open a new Gym in it.
+The best neighboorhood is the one that will lead to highest profit and more clinets. Therefore it will be important to find the neighboorhoods that have a space to open new gym and to be sure that in the same time it will be able to attract customers to it.
 
 ### Data
 
