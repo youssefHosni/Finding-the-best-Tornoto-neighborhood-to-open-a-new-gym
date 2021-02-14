@@ -10,3 +10,4 @@ The geographical coordinates for each neigboorhood is obtained from the followin
 The veneus and information about them in each neighboorhood is obtained from Foursquare API: [https://developer.foursquare.com/]
 
 
+![toronto_city](https://user-images.githubusercontent.com/72076328/107884557-6169bc00-6efe-11eb-8707-4b3df6e706ce.PNG)
