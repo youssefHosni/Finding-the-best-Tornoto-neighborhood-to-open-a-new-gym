@@ -4,4 +4,6 @@ The bussines problem for this project is as the following: A bussines man that o
 
 ### Data
 
-The data used is the toronto city negiboorhood information from the following wikipedia page: https://en.wikipedia.org/wiki/List_of_postal_codes_of_Canada:_M
+The data used is the toronto city negiboorhood information from the following wikipedia page: (https://en.wikipedia.org/wiki/List_of_postal_codes_of_Canada:_M) 
+The data consitst of 3, Postal code , Borough and Neigborhood.
+The 
