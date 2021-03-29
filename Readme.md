@@ -19,6 +19,3 @@ The neighbourhoods on the map are shown in the figure below
 From the Foursquare API the number of venues per each neighbourhood and the number of Gym/Fitness centers per each neighbourhood were calculated and then merged with the demographics data and the final data used is as the shown in the figure below.
 ![total_data](https://user-images.githubusercontent.com/72076328/109424261-a9530d80-79eb-11eb-807c-49864647abc6.PNG)
 
-
-You should use the `strong` tag.
-
