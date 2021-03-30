@@ -13,6 +13,11 @@ From the Foursquare API the number of venues per each neighbourhood and the numb
 The final dataset can be found [here](https://www.kaggle.com/youssef19/toronto-neighborhoods-inforamtion)
 
 ## Methodology 
+### Data preprocessing
+The data were normalized using the min-max normalization. This is an important step because the k-means algorithms depend on distance measurement, so it is important that the data used be in a similar scale. The formula of the min-max scaler is as the following: 𝑓𝑒𝑎𝑡𝑢𝑟𝑒−min⁡(𝑓𝑒𝑎𝑡𝑢𝑟𝑒)max⁡(𝑓𝑒𝑎𝑡𝑢𝑟𝑒)−min⁡(𝑓𝑒𝑎𝑡𝑢𝑟𝑒) The neighborhood and the geographical data were dropped from the data as they will be used by the clustering algorithm. 
+### K-means clustering 
+The best k was found using the elbow method, in which the average distance from the clusters is calculated for different values of k and the best k is the k at the elbow as shown in figure 6. The best k was found to be 3.
+
 
 ## Results 
 The neighborhoods are clustered into three clusters as shown in the figure below. The red color is the first cluster, the violet is the second cluster, green is the third cluster.
