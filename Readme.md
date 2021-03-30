@@ -14,7 +14,6 @@ The final dataset can be found [here](https://www.kaggle.com/youssef19/toronto-n
 
 ## Methodology 
 
-
 ## Results 
 The neighborhoods are clustered into three clusters as shown in the figure below. The red color is the first cluster, the violet is the second cluster, green is the third cluster.
 ![clsuters on the map](https://user-images.githubusercontent.com/72076328/113056147-18bb4900-91b4-11eb-9e33-8ccf83fa5fca.PNG)
@@ -27,6 +26,4 @@ The neighborhoods are clustered into three clusters as shown in the figure below
 
 ## Usage 
 
-
 ## license 
-
