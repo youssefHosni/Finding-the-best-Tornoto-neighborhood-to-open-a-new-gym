@@ -14,7 +14,8 @@ The final dataset can be found [here](https://www.kaggle.com/youssef19/toronto-n
 
 ## Methodology 
 ### Data preprocessing
-The data were normalized using the min-max normalization. This is an important step because the k-means algorithms depend on distance measurement, so it is important that the data used be in a similar scale. The formula of the min-max scaler is as the following: 𝑓𝑒𝑎𝑡𝑢𝑟𝑒−min⁡(𝑓𝑒𝑎𝑡𝑢𝑟𝑒)max⁡(𝑓𝑒𝑎𝑡𝑢𝑟𝑒)−min⁡(𝑓𝑒𝑎𝑡𝑢𝑟𝑒) The neighborhood and the geographical data were dropped from the data as they will be used by the clustering algorithm. 
+The data were normalized using the min-max normalization. This is an important step because the k-means algorithms depend on distance measurement, so it is important that the data used be in a similar scale. The formula of the min-max scaler is as the following: 𝑓𝑒𝑎𝑡𝑢𝑟𝑒−min⁡(𝑓𝑒𝑎𝑡𝑢𝑟𝑒)max⁡(𝑓𝑒𝑎𝑡𝑢𝑟𝑒)−min⁡(𝑓𝑒𝑎𝑡𝑢𝑟𝑒)
+The neighborhood and the geographical data were dropped from the data as they will be used by the clustering algorithm. 
 ### K-means clustering 
 The best k was found using the elbow method, in which the average distance from the clusters is calculated for different values of k and the best k is the k at the elbow as shown in figure 6. The best k was found to be 3.
 
