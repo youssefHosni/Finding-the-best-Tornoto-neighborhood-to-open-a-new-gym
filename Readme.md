@@ -1,6 +1,6 @@
 # Finding the best neighborhood to open a new gym
 
-Finding the best neighborhood  to open a new gym, given the demographic and geogrpahic and venues information data.
+Finding the best neighborhood in Tornoto city to open a new gym, given the demographic and geogrpahic and venues information data. More inforamtion can be found [here] (https://drive.google.com/drive/u/0/my-drive)
 
 ## Data
 
@@ -21,6 +21,8 @@ From the Foursquare API the number of venues per each neighbourhood and the numb
 ## Dependices 
 
 ## Requirments
+
+## Usage 
 
 
 ## license 
