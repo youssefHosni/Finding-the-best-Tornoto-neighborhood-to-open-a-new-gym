@@ -2,7 +2,7 @@
 
 Finding the best neighborhood  to open a new gym, given the demographic and geogrpahic and venues information data.
 
-### Data
+## Data
 
 The datasets used to solve these problem are as the following:
 The demogrpahics data: The demographic dataset contains the total population, the 15-45 poulation, the number of educated people and the number of employers in each neighborhood. The dataset is downladed from the Toronta data portal. https://open.toronto.ca/dataset/neighbourhood-profiles/
@@ -19,4 +19,8 @@ From the Foursquare API the number of venues per each neighbourhood and the numb
 
 
 ## Dependices 
+
+## Requirments
+
+## license 
 
