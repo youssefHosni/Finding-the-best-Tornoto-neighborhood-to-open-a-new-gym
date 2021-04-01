@@ -30,4 +30,7 @@ The neighborhoods are clustered into three clusters as shown in the figure below
 ## Conclusion 
 Using the demographics data and the venue information for each neighborhood obtained from Foursquare API, I was able to cluster the neighborhoods into three clusters using the K-means clustering algorithm. The number of gyms was found to be correlated to the number of venues. The neighborhoods with a large number of venues and gyms are clustered into the third cluster, so the most suitable neighborhood out of this cluster is the **Trinity-Bellwoods neighborhood**. The first cluster contains neighborhoods with  large population and  small number of gyms and  moderate number of venues. The **Church-Yonge Corridor neighborhood** is the best choice out of this cluster as it contains 98 venues and large population. The number of venues is almost similar to that of the “Trinity-Bellwoods” and the population is double of it, making it the best neighborhood to open a new gym in Toronto city.
 
-## license 
+## license & Copyright
+
+© Youssef Hosni
+Lincesed under (MIT Linces)[https://github.com/youssefHosni/Finding-the-best-Tornoto-neighborhood-to-open-a-new-gym/blob/main/LICENSE].
