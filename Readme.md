@@ -1,7 +1,7 @@
 # Finding the best neighborhood to open a new gym
 
 ## Introduction
-Finding the best neighborhood in Tornoto city to open a new gym, given the demographic and geogrpahic and venues information data. More inforamtion can be found [here](https://drive.google.com/drive/u/0/my-drive)
+Finding the best neighborhood in Tornoto city to open a new gym, given the demographic and geogrpahic and venues information data. More inforamtion can be found [here](https://github.com/youssefHosni/Finding-the-best-Tornoto-neighborhood-to-open-a-new-gym/blob/main/Project%20report.pdf)
 
 ## Data
 
